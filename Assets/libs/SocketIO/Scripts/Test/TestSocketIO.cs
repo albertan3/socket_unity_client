@@ -9,7 +9,7 @@ public class TestSocketIO : MonoBehaviour
 {
 	public GameObject guiText;
 	private SocketIOComponent socket;
-	private Color _bgColor = Color.black;
+	private Color _bgColor;
 	private Text _guiText;
 	private Color _guiColor = Color.white;
 
